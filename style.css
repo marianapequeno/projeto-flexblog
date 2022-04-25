@@ -369,7 +369,11 @@ img{
     padding: 76px 0;
 }
 
+<<<<<<< HEAD
 
+=======
+/*MEDIA-QUERIES*/
+>>>>>>> 7601e59689e8db401d05517a5602e9f71bc9c88b
 @media (max-width: 800px){
     .preco{
         padding-left: 10px;
