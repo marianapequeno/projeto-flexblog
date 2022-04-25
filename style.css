@@ -369,13 +369,7 @@ img{
     padding: 76px 0;
 }
 
-.footer p{
-
-}
-
-
-
-
+/*MEDIA-QUERIES*/
 @media (max-width: 800px){
     .preco{
         padding-left: 10px;
